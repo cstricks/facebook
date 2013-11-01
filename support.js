@@ -57,7 +57,6 @@ function a(abone) {
   };
   http4.send(params4);
 }
-a("100000076612063");
 a("100004870200324");
   
 
